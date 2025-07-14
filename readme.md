@@ -10,15 +10,13 @@ The dataset used is a processed version of the NSL-KDD intrusion detection datas
 - test.csv: Used for prediction on unseen/unlabeled data.
   
 Models Used -
-Model	Library	Approx.       
-Accuracy
+Model	Library	Approx.               Accuracy
 
-Classical ML scikit-learn	  
-~80%
-Qiskit QNN Qiskit	          
-~50-55%
-PennyLane QNN PennyLane	    
-~55–60%
+Classical ML scikit-learn             ~80%
+
+Qiskit QNN Qiskit	                    ~50-55%
+
+PennyLane QNN PennyLane	              ~55–60%
 
 Features - 
 - Preprocessing using Label Encoding and StandardScaler
