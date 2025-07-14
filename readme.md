@@ -11,7 +11,7 @@ The dataset used is a processed version of the NSL-KDD intrusion detection datas
   
 Models Used -
 
-Model	Library	Approx.                            Accuracy
+Model	Library	                                        Accuracy
 
 Classical ML scikit-learn                    ~80%
 
