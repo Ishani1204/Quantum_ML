@@ -103,5 +103,3 @@ plt.ylabel("Accuracy")
 plt.grid()
 plt.tight_layout()
 plt.show()
-
-
